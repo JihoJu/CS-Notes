@@ -18,6 +18,7 @@ CS 정리 내용 기록
 - [Transaction(트랜잭션)](https://github.com/JihoJu/CS-Notes/blob/main/Database/transaction.md#transaction%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%EB%9E%80)
 
 # ✏️ 자료구조
+- [Array&LinkedList(배열, 링크드 리스트)](https://github.com/JihoJu/CS-Notes/blob/main/DataStructure/array%26linkedlist.md#array--linked-list)
 - [Stack(스택)](https://github.com/JihoJu/CS-Notes/blob/main/DataStructure/stack.md#stack)
 - [Queue(큐)](https://github.com/JihoJu/CS-Notes/blob/main/DataStructure/queue.md#queue)
 - [Heap(=우선순위 큐)](https://github.com/JihoJu/CS-Notes/blob/main/DataStructure/heap.md#heap)
