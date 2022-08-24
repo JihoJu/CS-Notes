@@ -10,7 +10,8 @@ CS 정리 내용 기록
 - [DeadLock(교착 상태)](https://github.com/JihoJu/CS-Notes/blob/main/OS/deadlock.md#deadlock%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C)
 
 # ✏️ 네트워크
-- OSI 7계층 & TCP/IP4 계층
+- [OSI 7 계층](https://github.com/JihoJu/CS-Notes/blob/main/Network/OSI_Model.md#osi-model-%EC%9D%B4%EB%9E%80)
+- [TCP/IP 4 계층]()
 - TCP/UDP
 
 # ✏️ 데이터 베이스
