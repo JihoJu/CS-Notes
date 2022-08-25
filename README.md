@@ -11,8 +11,8 @@ CS 정리 내용 기록
 
 # ✏️ 네트워크
 - [OSI 7 계층](https://github.com/JihoJu/CS-Notes/blob/main/Network/OSI_Model.md#osi-model-%EC%9D%B4%EB%9E%80)
-- [TCP/IP 4 계층]()
-- TCP/UDP
+- [TCP/IP 4 계층](https://github.com/JihoJu/CS-Notes/blob/main/Network/TCP_IP.md#tcpip-protocol-stack-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%8A%A4%ED%83%9D)
+- [TCP & UDP](https://github.com/JihoJu/CS-Notes/blob/main/Network/TCP_UDP.md)
 
 # ✏️ 데이터 베이스
 - [Key(키)](https://github.com/JihoJu/CS-Notes/blob/main/Database/keys.md#key)
