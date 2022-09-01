@@ -13,7 +13,8 @@ CS 정리 내용 기록
 - [OSI 7 계층](https://github.com/JihoJu/CS-Notes/blob/main/Network/OSI_Model.md#osi-model-%EC%9D%B4%EB%9E%80)
 - [TCP/IP 4 계층](https://github.com/JihoJu/CS-Notes/blob/main/Network/TCP_IP.md#tcpip-protocol-stack-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%8A%A4%ED%83%9D)
 - [TCP & UDP](https://github.com/JihoJu/CS-Notes/blob/main/Network/TCP_UDP.md)
-
+- [Domain & DNS](https://github.com/JihoJu/CS-Notes/blob/main/Network/Domain_DNS.md#domain%EB%8F%84%EB%A9%94%EC%9D%B8)
+- [웹 브라우저에 URL 입력 시 생기는 일](https://github.com/JihoJu/CS-Notes/blob/main/Network/Browser_URL_Process.md#browser-%EC%97%90-url-%EC%9E%85%EB%A0%A5-%EC%8B%9C-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%B4-%EB%B0%9C%EC%83%9D)
 # ✏️ 데이터 베이스
 - [Key(키)](https://github.com/JihoJu/CS-Notes/blob/main/Database/keys.md#key)
 - [Transaction(트랜잭션)](https://github.com/JihoJu/CS-Notes/blob/main/Database/transaction.md#transaction%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%EB%9E%80)
