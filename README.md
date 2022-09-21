@@ -15,6 +15,10 @@ CS 정리 내용 기록
 - [TCP & UDP](https://github.com/JihoJu/CS-Notes/blob/main/Network/TCP_UDP.md)
 - [Domain & DNS](https://github.com/JihoJu/CS-Notes/blob/main/Network/Domain_DNS.md#domain%EB%8F%84%EB%A9%94%EC%9D%B8)
 - [웹 브라우저에 URL 입력 시 생기는 일](https://github.com/JihoJu/CS-Notes/blob/main/Network/Browser_URL_Process.md#browser-%EC%97%90-url-%EC%9E%85%EB%A0%A5-%EC%8B%9C-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%B4-%EB%B0%9C%EC%83%9D)
+- [HTTP(S)](https://github.com/JihoJu/CS-Notes/blob/main/Network/HTTP(S).md#http-%EB%9E%80)
+- REST API(블로그 정리가 너무 잘되어있어 좋은 블로그 링크 게제)
+  - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+  - [그런 REST API로 괜찮은가?](https://velog.io/@kjh03160/%EA%B7%B8%EB%9F%B0-REST-API%EB%A1%9C-%EA%B4%9C%EC%B0%AE%EC%9D%80%EA%B0%80)
 # ✏️ 데이터 베이스
 - [Key(키)](https://github.com/JihoJu/CS-Notes/blob/main/Database/keys.md#key)
 - [Transaction(트랜잭션)](https://github.com/JihoJu/CS-Notes/blob/main/Database/transaction.md#transaction%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%EB%9E%80)
